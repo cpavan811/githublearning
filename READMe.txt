@@ -1,2 +1,2 @@
 Hello All!
-this is for lerning!
+this is for learning!
